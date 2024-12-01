@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,t66y.com
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
