@@ -1,0 +1,8 @@
+# 自定义 Google 相关规则
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com,Proxy
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,t66y.com
